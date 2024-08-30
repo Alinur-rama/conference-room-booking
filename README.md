@@ -11,7 +11,7 @@
 2. Запуск приложения:
 у вас должен быть установлен docker desktop
 - docker-compose up --build
-API будет доступно по адресу `http://localhost:8080`.
+- API будет доступно по адресу `http://localhost:8080`.
 
 ## API Endpoints
 
